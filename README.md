@@ -7,7 +7,7 @@ Current plugins:
 
 ### Installation
 
-Upload files from ``plugins`` to ``wp-content/plugins/wp-super-cache/plugins``. That is all!
+Upload the folder ``wp-super-cache-plugins`` to ``wp-content/plugins/`` and enable desired plugins on WP Super Cache Options. That is all!
 
 ### Others
 
